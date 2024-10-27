@@ -1,7 +1,7 @@
 {
   "name": "create-onchain-ai",
   "description": "Instantly create onchain applications with OnchainKit and Brian.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "scripts": {
     "build": "bun run clean && bun run build:esm+types",
